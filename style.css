@@ -1,0 +1,28 @@
+#container {
+    width: 450px;
+    height: 615px;
+    border: 5px solid black;
+    background-color: red;
+}
+
+.calc {
+    margin-top: 20px;
+    width: 400px;
+    border: 5px solid green;
+    background-color: black;
+}
+
+input {
+    width: 130px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 35px;
+}
+
+.operations {
+    width: 130px;
+    height: 50px;
+    background-color: orange;
+    font-size: 35px;
+}
